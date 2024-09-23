@@ -1,0 +1,21 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Ninja ",
+            "value": "50%"
+        },
+        {
+            "trait_type": "PVP",
+            "value": "30%"
+        },
+        {
+            "trait_type": "Rare",
+            "value": "100%"
+        }
+    ],
+     
+    
+    "description": "A collection of LD gang created by elmas",
+    "image": "https://ipfs.io/ipfs/QmYvqSLwNxqK8SZRCJErw7JBkj8ocks3MwD47D33FR8kwe?filename=LD.png",
+    "name": "LDonTOP"
+  }
