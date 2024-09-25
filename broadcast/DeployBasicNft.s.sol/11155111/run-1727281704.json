@@ -1,7 +1,7 @@
 {
   "transactions": [
     {
-      "hash": "0x7f4daef5c6d643e4c032694b03c0bbd383db4bbf29b779d97235e30ca4ef0faf",
+      "hash": null,
       "transactionType": "CREATE",
       "contractName": "BasicNft",
       "contractAddress": "0x59e8edee31e8399c491dfafb04aa8dcae8b8d122",
@@ -19,24 +19,7 @@
       "isFixedGasLimit": false
     }
   ],
-  "receipts": [
-    {
-      "status": "0x1",
-      "cumulativeGasUsed": "0xa4a8ad",
-      "logs": [],
-      "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-      "type": "0x2",
-      "transactionHash": "0x7f4daef5c6d643e4c032694b03c0bbd383db4bbf29b779d97235e30ca4ef0faf",
-      "transactionIndex": "0x43",
-      "blockHash": "0x2750ba96f0dd2a7feb2b9956854a01f8f30b19ec2383618caccb47489110b5c9",
-      "blockNumber": "0x6720da",
-      "gasUsed": "0xf25c8",
-      "effectiveGasPrice": "0x11e5e4a2b6",
-      "from": "0x1b06535f608b58b863843e09fba62b8929513895",
-      "to": null,
-      "contractAddress": "0x59e8edee31e8399c491dfafb04aa8dcae8b8d122"
-    }
-  ],
+  "receipts": [],
   "libraries": [],
   "pending": [],
   "returns": {
@@ -45,7 +28,7 @@
       "value": "0x59e8eDEe31E8399C491dfaFb04aa8DCAE8b8D122"
     }
   },
-  "timestamp": 1727289799,
+  "timestamp": 1727281704,
   "chain": 11155111,
   "commit": "4fe5346"
 }
