@@ -7,13 +7,13 @@
   <circle
     cx="100"
     cy="100"
-    fill="yellow"
+    fill="#ff2b20"
     r="78"
     stroke="black"
     stroke-width="3"
   />
   <g class="eyes">
-    <circle cx="61" cy="82" r="12" />
+    <circle cx="34" cy="82" r="12" />
     <circle cx="127" cy="82" r="12" />
   </g>
   <path
